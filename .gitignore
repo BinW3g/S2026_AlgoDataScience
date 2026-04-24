@@ -1,0 +1,16 @@
+.idea/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Assignment-local generated artifacts and notebook exports
+assignments/*/generated/*
+!assignments/*/generated/.gitkeep
+assignments/*/generated/exports/*
+
+# Root-level legacy notebook export artifacts
+*.clean.pdf
+*_files/
