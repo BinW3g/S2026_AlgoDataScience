@@ -1,2 +1,7 @@
 plotly
 kaleido
+scikit-learn
+tensorflow
+numpy
+pillow
+matplotlib
